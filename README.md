@@ -1,3 +1,3 @@
 #My Simple Web Page
-title: Tittle
+title: Title
 description: [A short description of your site's purpose]
